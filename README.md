@@ -168,7 +168,7 @@ npm run dev       # Starts on http://localhost:5173
 
 ---
 
-## 📸 Screenshots
+
 
 ### 🏠 Home Page
 ![Home](https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?w=800&h=400&fit=crop)
@@ -186,8 +186,5 @@ npm run dev       # Starts on http://localhost:5173
 
 <div align="center">
 
-Made with ❤️ by [saishruthi26](https://github.com/saishruthi26)
-
-⭐ **Star this repo if you found it helpful!**
-
+ [saishruthi26](https://github.com/saishruthi26)
 </div>
