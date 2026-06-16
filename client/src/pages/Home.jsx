@@ -36,15 +36,15 @@ const Home = () => {
         </div>
         <div className="container">
           <div className="hero-content">
-            <div className="hero-badge"><FiShoppingBag size={14} /> The Future of Online Shopping</div>
-            <h1 className="hero-title">Shop <span className="text-gradient">Smarter</span>,<br />Live <span className="text-gradient">Better</span></h1>
-            <p className="hero-subtitle">Discover thousands of products at unbeatable prices. Electronics, fashion, home essentials — everything delivered to your door.</p>
+            <div className="hero-badge"><FiShoppingBag size={14} /> India's Smartest Shopping Destination</div>
+            <h1 className="hero-title">Everything You <span className="text-gradient">Love</span>,<br />Delivered to Your <span className="text-gradient">Door</span></h1>
+            <p className="hero-subtitle">From the latest electronics to trendy fashion — shop thousands of products at unbeatable prices with lightning-fast delivery and easy returns.</p>
             <div className="hero-actions">
-              <button className="btn btn-primary btn-lg" onClick={() => navigate('/products')}>Explore Products <FiArrowRight size={18} /></button>
-              <button className="btn btn-secondary btn-lg" onClick={() => navigate('/register')}>Join for Free</button>
+              <button className="btn btn-primary btn-lg" onClick={() => navigate('/products')}>Start Shopping <FiArrowRight size={18} /></button>
+              <button className="btn btn-secondary btn-lg" onClick={() => navigate('/register')}>Join ShopEZ Free</button>
             </div>
             <div className="hero-stats">
-              {[['50K+','Products'],['2M+','Happy Customers'],['99%','Satisfaction']].map(([v,l]) => (
+              {[['32+','Products'],['10K+','Happy Customers'],['100%','Secure Payments']].map(([v,l]) => (
                 <div key={l} className="hero-stat"><span className="hero-stat-value">{v}</span><span className="hero-stat-label">{l}</span></div>
               ))}
             </div>
