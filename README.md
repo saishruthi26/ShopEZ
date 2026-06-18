@@ -166,18 +166,6 @@ npm run dev       # Starts on http://localhost:5173
 
 ---
 
-
-ScreenShots
-
-### 🏠 Home Page
-![Home]
-![Uploading image.png…]()
-
-
-
-### 🛍️ Products Page
-![Products](https://images.unsplash.com/photo-1607082349566-187342175e2f?w=800&h=400&fit=crop)
-
 ---
 
 ## 👨‍💻 Skills Used
