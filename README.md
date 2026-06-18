@@ -2,8 +2,6 @@
 
 <div align="center">
 
-![ShopEZ Banner](https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?w=1200&h=400&fit=crop)
-
 [![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-shopez--frontend--wzsg.onrender.com-7c3aed?style=for-the-badge)](https://shopez-frontend-wzsg.onrender.com)
 [![GitHub](https://img.shields.io/badge/GitHub-saishruthi26%2FShopEZ-181717?style=for-the-badge&logo=github)](https://github.com/saishruthi26/ShopEZ)
 [![MongoDB](https://img.shields.io/badge/MongoDB-Atlas-47A248?style=for-the-badge&logo=mongodb)](https://cloud.mongodb.com)
