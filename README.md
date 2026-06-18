@@ -170,7 +170,10 @@ npm run dev       # Starts on http://localhost:5173
 ScreenShots
 
 ### 🏠 Home Page
-![Home](https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?w=800&h=400&fit=crop)
+![Home]
+![Uploading image.png…]()
+
+
 
 ### 🛍️ Products Page
 ![Products](https://images.unsplash.com/photo-1607082349566-187342175e2f?w=800&h=400&fit=crop)
